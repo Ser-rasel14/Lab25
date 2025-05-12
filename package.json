@@ -1,0 +1,23 @@
+{
+  "name": "lab25",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ser-rasel14/Lab25.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ser-rasel14/Lab25/issues"
+  },
+  "homepage": "https://github.com/Ser-rasel14/Lab25#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
