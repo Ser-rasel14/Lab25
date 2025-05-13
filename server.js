@@ -5,7 +5,8 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-  res.send('Hello from CI/CD Lab 25!');
+  res.send('CI/CD pipeline trigger test #2');
+
 
 });
 
